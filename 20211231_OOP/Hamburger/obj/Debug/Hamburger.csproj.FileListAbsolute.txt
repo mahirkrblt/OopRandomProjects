@@ -1,0 +1,12 @@
+C:\Users\Mahir\source\repos\20211231_OOP\Hamburger\obj\Debug\Hamburger.csproj.AssemblyReference.cache
+C:\Users\Mahir\source\repos\20211231_OOP\Hamburger\obj\Debug\Hamburger.HamburgerForm.resources
+C:\Users\Mahir\source\repos\20211231_OOP\Hamburger\obj\Debug\Hamburger.Properties.Resources.resources
+C:\Users\Mahir\source\repos\20211231_OOP\Hamburger\obj\Debug\Hamburger.csproj.GenerateResource.cache
+C:\Users\Mahir\source\repos\20211231_OOP\Hamburger\obj\Debug\Hamburger.csproj.CoreCompileInputs.cache
+C:\Users\Mahir\source\repos\20211231_OOP\Hamburger\bin\Debug\Hamburger.exe.config
+C:\Users\Mahir\source\repos\20211231_OOP\Hamburger\bin\Debug\Hamburger.exe
+C:\Users\Mahir\source\repos\20211231_OOP\Hamburger\bin\Debug\Hamburger.pdb
+C:\Users\Mahir\source\repos\20211231_OOP\Hamburger\obj\Debug\Hamburger.exe
+C:\Users\Mahir\source\repos\20211231_OOP\Hamburger\obj\Debug\Hamburger.pdb
+C:\Users\Mahir\source\repos\20211231_OOP\Hamburger\obj\Debug\Hamburger.Home.resources
+C:\Users\Mahir\source\repos\20211231_OOP\Hamburger\obj\Debug\Hamburger.csproj.SuggestedBindingRedirects.cache
